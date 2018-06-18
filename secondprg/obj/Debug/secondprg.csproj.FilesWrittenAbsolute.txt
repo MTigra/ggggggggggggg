@@ -1,0 +1,7 @@
+/home/tigran/RiderProjects/Kr1/secondprg/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/home/tigran/RiderProjects/Kr1/secondprg/bin/Debug/secondprg.pdb
+/home/tigran/RiderProjects/Kr1/secondprg/bin/Debug/secondprg.exe
+/home/tigran/RiderProjects/Kr1/secondprg/obj/Debug/secondprg.exe
+/home/tigran/RiderProjects/Kr1/secondprg/obj/Debug/secondprg.pdb
+/home/tigran/RiderProjects/Kr1/secondprg/bin/Debug/ClassLibrary1.dll
+/home/tigran/RiderProjects/Kr1/secondprg/bin/Debug/ClassLibrary1.pdb

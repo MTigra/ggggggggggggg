@@ -1,0 +1,7 @@
+/home/tigran/RiderProjects/Kr1/Kr1/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/home/tigran/RiderProjects/Kr1/Kr1/bin/Debug/Kr1.pdb
+/home/tigran/RiderProjects/Kr1/Kr1/bin/Debug/Kr1.exe
+/home/tigran/RiderProjects/Kr1/Kr1/obj/Debug/Kr1.exe
+/home/tigran/RiderProjects/Kr1/Kr1/obj/Debug/Kr1.pdb
+/home/tigran/RiderProjects/Kr1/Kr1/bin/Debug/ClassLibrary1.dll
+/home/tigran/RiderProjects/Kr1/Kr1/bin/Debug/ClassLibrary1.pdb
